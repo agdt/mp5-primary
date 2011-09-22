@@ -1,0 +1,21 @@
+#root
+{
+margin: 30px auto;
+//border: 1px solid black;
+width:800px;
+height:500px;
+}
+
+#login_reg
+{
+position:relative;
+width: 30%;
+border: 1px solid black;
+margin: 50px auto;
+padding: 20px 40px;
+}
+
+#name, #pass, #pass_again
+{
+width: 240px;
+}
